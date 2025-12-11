@@ -64,7 +64,7 @@ pip install tensorflow pandas numpy scikit-learn matplotlib seaborn plotly jupyt
 
 ### 3. Run the Notebook
 ```bash
-jupyter notebook breast-cancer-classification-ann-98.ipynb
+jupyter notebook breast-cancer-classification-ann.ipynb
 ```
 
 ## 📚 Tutorial Sections

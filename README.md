@@ -39,7 +39,7 @@ We compare three configurations to illustrate the depth-width trade-off:
 ```
 breast-cancer-classification-ann-98/
 │
-├── breast-cancer-classification-ann-98.ipynb  # Main tutorial notebook
+├── breast-cancer-classification-ann.ipynb  # Main tutorial notebook
 ├── data.csv                                    # Dataset (from UCI)
 ├── README.md                                   # This file
 └── LICENSE                                     # MIT License
